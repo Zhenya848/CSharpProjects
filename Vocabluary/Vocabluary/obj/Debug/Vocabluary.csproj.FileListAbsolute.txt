@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Vocabluary\Vocabluary\bin\Debug\Vocabluary.exe.config
+C:\Users\Z\source\repos\Vocabluary\Vocabluary\bin\Debug\Vocabluary.exe
+C:\Users\Z\source\repos\Vocabluary\Vocabluary\bin\Debug\Vocabluary.pdb
+C:\Users\Z\source\repos\Vocabluary\Vocabluary\obj\Debug\Vocabluary.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\Vocabluary\Vocabluary\obj\Debug\Vocabluary.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Vocabluary\Vocabluary\obj\Debug\Vocabluary.exe
+C:\Users\Z\source\repos\Vocabluary\Vocabluary\obj\Debug\Vocabluary.pdb
+C:\Users\Z\Desktop\Vocabluary\Vocabluary\bin\Debug\Vocabluary.exe.config
+C:\Users\Z\Desktop\Vocabluary\Vocabluary\bin\Debug\Vocabluary.exe
+C:\Users\Z\Desktop\Vocabluary\Vocabluary\bin\Debug\Vocabluary.pdb
+C:\Users\Z\Desktop\Vocabluary\Vocabluary\obj\Debug\Vocabluary.csproj.AssemblyReference.cache
+C:\Users\Z\Desktop\Vocabluary\Vocabluary\obj\Debug\Vocabluary.csproj.CoreCompileInputs.cache
+C:\Users\Z\Desktop\Vocabluary\Vocabluary\obj\Debug\Vocabluary.exe
+C:\Users\Z\Desktop\Vocabluary\Vocabluary\obj\Debug\Vocabluary.pdb
