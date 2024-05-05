@@ -1,0 +1,7 @@
+C:\Users\Z\Desktop\ConsoleRun\ConsoleRun\bin\Debug\ConsoleRun.exe.config
+C:\Users\Z\Desktop\ConsoleRun\ConsoleRun\bin\Debug\ConsoleRun.exe
+C:\Users\Z\Desktop\ConsoleRun\ConsoleRun\bin\Debug\ConsoleRun.pdb
+C:\Users\Z\Desktop\ConsoleRun\ConsoleRun\obj\Debug\ConsoleRun.csproj.AssemblyReference.cache
+C:\Users\Z\Desktop\ConsoleRun\ConsoleRun\obj\Debug\ConsoleRun.csproj.CoreCompileInputs.cache
+C:\Users\Z\Desktop\ConsoleRun\ConsoleRun\obj\Debug\ConsoleRun.exe
+C:\Users\Z\Desktop\ConsoleRun\ConsoleRun\obj\Debug\ConsoleRun.pdb
