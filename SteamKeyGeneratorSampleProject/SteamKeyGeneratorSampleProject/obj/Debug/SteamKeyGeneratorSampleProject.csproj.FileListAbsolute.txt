@@ -1,0 +1,10 @@
+C:\Users\Z\Desktop\SteamKeyGeneratorSampleProject\SteamKeyGeneratorSampleProject\bin\Debug\SteamKeyGeneratorSampleProject.exe.config
+C:\Users\Z\Desktop\SteamKeyGeneratorSampleProject\SteamKeyGeneratorSampleProject\bin\Debug\SteamKeyGeneratorSampleProject.exe
+C:\Users\Z\Desktop\SteamKeyGeneratorSampleProject\SteamKeyGeneratorSampleProject\bin\Debug\SteamKeyGeneratorSampleProject.pdb
+C:\Users\Z\Desktop\SteamKeyGeneratorSampleProject\SteamKeyGeneratorSampleProject\obj\Debug\SteamKeyGeneratorSampleProject.csproj.AssemblyReference.cache
+C:\Users\Z\Desktop\SteamKeyGeneratorSampleProject\SteamKeyGeneratorSampleProject\obj\Debug\SteamKeyGeneratorSampleProject.Form1.resources
+C:\Users\Z\Desktop\SteamKeyGeneratorSampleProject\SteamKeyGeneratorSampleProject\obj\Debug\SteamKeyGeneratorSampleProject.Properties.Resources.resources
+C:\Users\Z\Desktop\SteamKeyGeneratorSampleProject\SteamKeyGeneratorSampleProject\obj\Debug\SteamKeyGeneratorSampleProject.csproj.GenerateResource.cache
+C:\Users\Z\Desktop\SteamKeyGeneratorSampleProject\SteamKeyGeneratorSampleProject\obj\Debug\SteamKeyGeneratorSampleProject.csproj.CoreCompileInputs.cache
+C:\Users\Z\Desktop\SteamKeyGeneratorSampleProject\SteamKeyGeneratorSampleProject\obj\Debug\SteamKeyGeneratorSampleProject.exe
+C:\Users\Z\Desktop\SteamKeyGeneratorSampleProject\SteamKeyGeneratorSampleProject\obj\Debug\SteamKeyGeneratorSampleProject.pdb
